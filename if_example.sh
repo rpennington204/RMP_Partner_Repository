@@ -1,4 +1,5 @@
 #!/bin/bash
+#Apples and oranges, I think both are terrible. Except in pies, apple pie is good 
 
 echo "Enter a number"
 
